@@ -1,11 +1,11 @@
-# number-to-word-module
+# number-to-word-wsh
 Convert a number into words using Indian or western numbering system
 
 ## Setup
 1. Open [webshell.surge.sh](https://webshell.surge.sh/) in browser
 2. Install the command, 
 ```
-install https://cdn.jsdelivr.net/gh/isurfer21/number-to-word-module/n2w.js conv
+install https://cdn.jsdelivr.net/gh/isurfer21/number-to-word-wsh/n2w.js conv
 ```
 3. Validate if installed properly, 
 ```
